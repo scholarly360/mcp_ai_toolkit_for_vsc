@@ -1,4 +1,4 @@
-# MCP Tools Integration with Python
+# MCP Tools Integration with azure-ai-inference (Generated via AI Toolkit)
 
 This Python script demonstrates how to integrate AI models (Azure Foundary and Github) with MCP (Model Context Protocol) 
 tools to create an intelligent web exploration assistant. Here's what it does:
